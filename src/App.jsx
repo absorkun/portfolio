@@ -83,7 +83,7 @@ function App() {
               <div className="card-body">
                 <h5 className="card-title text-success">Source Code UI</h5>
                 <p className="card-text text-secondary">Source code lengkap untuk UI yang dibangun dengan React ini.</p>
-                <a href="#" className="btn btn-success" target="_blank" rel="noopener noreferrer">Coba API</a>
+                <a href="https://github.com/absorkun/portfolio" className="btn btn-success" target="_blank" rel="noopener noreferrer">Coba API</a>
               </div>
             </div>
           </div>
