@@ -43,7 +43,7 @@ function App() {
             </tr>
           </thead>
           <tbody className="table-light">
-            <tr><td>Backend</td><td>Go (net/http + chi router)</td></tr>
+            <tr><td>Backend</td><td>Go (net/http || fiber || gin)</td></tr>
             <tr><td>Database</td><td>PostgreSQL / Supabase</td></tr>
             <tr><td>Auth</td><td>JWT</td></tr>
             <tr><td>Validation</td><td>go-playground/validator</td></tr>
